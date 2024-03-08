@@ -1,0 +1,2 @@
+# IMACONCOIN
+Coin for convicts
